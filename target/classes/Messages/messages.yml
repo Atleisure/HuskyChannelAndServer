@@ -1,0 +1,12 @@
+help:
+  - '&9==========&bHuskyChannelAndServer&9=========='
+  - '/hcas help &c插件帮助'
+  - '/hcas set name &c设置开启频道的名字(必须存在)'
+  - '/hcas run &c开启频服互联'
+  - '/hcas close &c关闭频服互联'
+  - '/hcas reload &c插件重载'
+join: "name加入了游戏！"
+quit: "name退出了游戏！"
+run: "&9频服互联已开启！"
+close: "&c频服互联已关闭！"
+set: "&9已将开启的频道名更改为&bname"

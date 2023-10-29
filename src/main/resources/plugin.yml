@@ -1,0 +1,7 @@
+name: HuskyChannelAndServer
+version: '${project.version}'
+main: org.siberianhusy.huskychannelandserver.HuskyChannelAndServer
+api-version: '1.19'
+commands:
+  HuskyChannelAndServer:
+    aliases: hcas

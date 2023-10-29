@@ -1,0 +1,9 @@
+org\siberianhusy\huskychannelandserver\Data.class
+org\siberianhusy\huskychannelandserver\event\ChannelMessageEvent$1.class
+org\siberianhusy\huskychannelandserver\commands\Commands.class
+org\siberianhusy\huskychannelandserver\utils\Send.class
+org\siberianhusy\huskychannelandserver\event\MinecraftMessageEvent.class
+org\siberianhusy\huskychannelandserver\HuskyChannelAndServer.class
+org\siberianhusy\huskychannelandserver\utils\Replace.class
+org\siberianhusy\huskychannelandserver\event\ChannelMessageEvent.class
+org\siberianhusy\huskychannelandserver\utils\Reload.class
